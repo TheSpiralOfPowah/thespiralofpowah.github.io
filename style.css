@@ -32,11 +32,11 @@ body {
 /*A cool ass sliding background for the header cause why not*/
 #header {
     background-color: #FF6666;
-    color: #FFBF00;
+    color: #ffffff;
     padding: 1in;
     position: relative;
     z-index: 1;
-    border: 0.5rem solid #FFBF00;
+    border: 0.5rem solid #ffffff;
 }
 
 .svg-background {
@@ -59,7 +59,7 @@ body {
   height: 20%;
   margin: .5%;
   padding: 1%;
-  background-color: #FFBF00;
+  background-color: #ffffff;
   -webkit-border-radius: 10%;
   -moz-border-radius:  10/1000;
   -ms-border-radius:    10/1000;
