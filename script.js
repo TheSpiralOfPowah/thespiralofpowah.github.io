@@ -5,7 +5,7 @@ function freebux() {
   window.location.href = link;
 }
 
-function sugmadick() {
+function sugma() {
   var lmao = document.getElementById("sugmadick")
   lmao.innerHTML = "SUGMA DICK LMAO 🤣🤣🤣🤣🤣🤣🤣😂😂😂😂😂😂😆😆😆😆🤣🤣🤣🤣🤣🤣😂😂😂😂";
 }
@@ -78,7 +78,9 @@ const strings = ['The smartest idiot ever',
 "Will you marry me?",
 "yes",
 "yay",
-"Have you heard of a deadly virus, called... 'sugma'?<br><button onclick=\"ligma()\">No... What's sugma?</button><br><h1 id='sugmadick'></h1>"];
+"Have you heard of a deadly virus, called... 'sugma'?<br><button onclick=\"sugma()\">No... What's sugma?</button><br><h1 id='sugmadick'></h1>",
+"My parents divorced 😔",
+"You're know when this an rizz word bad skibidi word worse bad and stop alphagen cringe gacha gross nword yes gud no wait racism bda keyboard seggs ghytujngtb ghtgyujfnbytgujnbyhtguujfnbtujfn"];
 
 const target = document.getElementById('random');
 
