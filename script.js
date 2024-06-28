@@ -5,9 +5,9 @@ function freebux() {
   window.location.href = link;
 }
 
-function qq() {
-  console.log('Holy shit this guy is from china. GIVE HIM QQ!')
-  
+function sugmadick() {
+  var lmao = document.getElementById("sugmadick")
+  lmao.innerHTML = "SUGMA DICK LMAO 🤣🤣🤣🤣🤣🤣🤣😂😂😂😂😂😂😆😆😆😆🤣🤣🤣🤣🤣🤣😂😂😂😂";
 }
 
 const strings = ['The smartest idiot ever', 
@@ -28,7 +28,6 @@ const strings = ['The smartest idiot ever',
 'I am not a bot. So STOP giving me captchas',
 'ass is not food, so why are people eating it???',
 "if you're swimming in the volcano and your pet dinosaur named dale the destroyer catches the flu, what should you have in your eyes?",
-'I can\'t believe I spent a tiny amount of money per year on this stupid domain name.',
 '"Lets eat, grandpa!" is much better than "Lets eat grandpa!"',
 'and now for a word from today\'s sponsor, RAID SHADOW LEGENDS-',
 'Vibe check can now be proven by science.',
@@ -41,7 +40,6 @@ const strings = ['The smartest idiot ever',
 "*demonic screeching*",
 "Aaron-san is garbage",
 "Slatch team is the military but worse",
-"Satstacker is the reason why I will be able to be racist.",
 "Don't be racist I am a building",
 "this site is like yo mama, but worse.",
 '"fumo, fumo, fumo..." - reimu from the boys',
@@ -53,7 +51,7 @@ const strings = ['The smartest idiot ever',
 "there are bugs under your skin. there are bugs under your skin. dig them out. dig them out.",
 "DUI: You can't afford it? WHO SAYS?",
 'Since I can put images as splash text, here\'s a cute picture of sevenrelics\'s cat, because why not<br><br><img src="cutecat.jpg" alt="cute car" width="1000">',
-'WOWZA!! YOU JUST WON 500,000,000,000 SATOSHI!!!!! CLICK HERE TO CLAIM IT: <button id="totallyfreerobux" onclick="freebux()">CLICK 4 FREE SATS!!!</button>',
+'WOWZA!! YOU JUST WON 500,000,000,000 DOLLARS (IN ROBUX)!!!!! CLICK HERE TO CLAIM IT: <button id="totallyfreerobux" onclick="freebux()">CLICK 4 FREE ROBUX!!!</button>',
 "<p style='font-family: \"Comic Sans\"';>different font lol</p>",
 "I have a lot of sigma male skibidi rizz, and a massive gyat. If you are a stupid beta male with a tiny gyat and no rizz, then go die from freddy fazbear.",
 "Gen alpha ☕",
@@ -67,13 +65,20 @@ const strings = ['The smartest idiot ever',
 "Merry christmas ya filthy animal",
 "Oh oh ohi-o! Welcome to my skibidi toilet! Oh oh ohi-o! Please don't leave. I have no gyatts. Oh oh ohi-o! Let's go sigma LEMME RIZZ YA! Oh oh ohi-o! HA-HA! I PRAYED TODAY!",
 "Nice.",
-"Also try satstacker! Wait it already says that",
 "Don't ever eat cobblestone, you weirdo.",
 "Be careful with scissors!",
 "Don't commit suicide. That shi kills people.",
 "Yarr scallywag, We shalt steal thy treasure!",
 "<span style='color: blue;'>I'm Blue da ba dee dabba da-ee</span>",
-'<audio controls><source src="crack.wav" type="audio/wav"></audio>'];
+'<audio controls><source src="crack.wav" type="audio/wav"></audio>',
+"Ignorance is bliss, in the world we live in now.",
+"RANDOM BULLSHIT GO!",
+"<h1 width=500>BREASTS!!!<h1>",
+"No.",
+"Will you marry me?",
+"yes",
+"yay",
+"Have you heard of a deadly virus, called... 'sugma'?<br><button onclick=\"ligma()\">No... What's sugma?</button><br><h1 id='sugmadick'></h1>"];
 
 const target = document.getElementById('random');
 
