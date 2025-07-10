@@ -1,3 +1,3 @@
-# We're being refactored
+# We're being reworked!
 
-Goodbye, ugly site
+Goodbye, ugly website.
